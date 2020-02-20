@@ -26,13 +26,12 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 === SalesForce login ===
-user: joao.martinez@pdcase.com.br
-Pass: qW$wbs3DF-F6P3P
+
 
 ========================
 
 ====== Postman Collection of calls =====
-https://www.getpostman.com/collections/dad299552b97c5df1004
+
 
 ========================================
 
