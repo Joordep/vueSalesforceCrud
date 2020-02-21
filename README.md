@@ -1,4 +1,6 @@
-# my-app
+Simple vue project, a Salesforce crud. 
+
+Back-and in [SpringBootSalesforceCrud](https://github.com/Joordep/SpringBootSalesforceCrud)
 
 ## Project setup
 ```
