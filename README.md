@@ -1,8 +1,9 @@
-Simple vue project, a Salesforce crud. 
+## Simple vue project, a Salesforce crud. 
 
-Back-and in [SpringBootSalesforceCrud](https://github.com/Joordep/SpringBootSalesforceCrud)
+### Back-end in [SpringBootSalesforceCrud](https://github.com/Joordep/SpringBootSalesforceCrud)
 
-## Project setup
+
+### Project setup
 ```
 npm install
 ```
@@ -24,3 +25,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+ 
