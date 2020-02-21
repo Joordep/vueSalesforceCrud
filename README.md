@@ -1,6 +1,9 @@
-# my-app
+## Simple vue project, a Salesforce crud. 
 
-## Project setup
+### Back-end in [SpringBootSalesforceCrud](https://github.com/Joordep/SpringBootSalesforceCrud)
+
+
+### Project setup
 ```
 npm install
 ```
@@ -22,30 +25,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-
-=== SalesForce login ===
-
-
-========================
-
-====== Postman Collection of calls =====
-
-
-========================================
-
-
-============== helpful links =========================
-
-https://vuejs.org/
-
-https://vuematerial.io/getting-started
-
-https://www.freecodecamp.org/news/vue-js-full-course/
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
-
-https://dzone.com/articles/how-to-build-a-basic-salesforce-rest-api-integrati-1
-
-https://www.veonconsulting.com/salesforce-rest-api-explained/
+ 
